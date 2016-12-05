@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+img {
+    height: 300px;
+    width: 350px;
+}
+.up {
+    background: #f49b11;
+}

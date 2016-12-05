@@ -1,0 +1,70 @@
+.blue, .green, .red, .yellow, .brown, .orange, .black,.pink,.cyan {
+    min-height: 100px;
+}
+.blue {
+    background: blue;
+}
+.green {
+    background: green;
+}
+.red {
+    background: red;
+}
+.yellow {
+    background: yellow;
+}
+.black {
+    background: black;
+}
+.brown {
+    background: brown;
+}
+.orange {
+    background: orange;
+}
+.cyan {
+    background: cyan;
+}
+.gray {
+    background: gray;
+}
+.pink {
+    background: pink;
+}
+.blue,.yellow {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.pl {
+    padding-left: 0;
+}
+.pr {
+    padding-right: 0;
+}
+h1 {
+    text-align: left;
+}
+h5 {
+    text-align: left;
+}
+h6 {
+    text-align: left;
+    font-size: 14px;
+}
+ul {
+    list-style-type: none;
+    color: darkgray;
+    padding: 0;
+}
+li {
+    border-bottom: 1px solid darkgray;
+    color: #080808;
+}
+p {
+    color: gray;
+}
+img {
+    width: 500px;
+    height: 330px;
+    margin-top: 10px;
+}
